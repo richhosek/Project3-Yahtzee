@@ -1,7 +1,7 @@
 {
   "name": "project3",
   "version": "1.0.0",
-  "description": "",
+  "description": "project template for full-stack applications",
   "main": "index.js",
   "scripts": {
     "start": "node server/server.js",
